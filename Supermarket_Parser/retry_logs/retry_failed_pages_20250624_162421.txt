@@ -1,0 +1,15 @@
+⚠️ EXAMPLE BELLOW ⚠️
+
+=== Supermarket Parser Log — retry_failed_pages — 20250624_162421 ===
+
+✅ Found failed pages to retry:
+→ ALDI_W26.pdf: pages [5]
+
+--- RETRY: C:/Data/Supermarket_Flyers/Week_26/ALDI_W26.pdf --- Pages: [5]
+
+=== Parsing ALDI PDF with GPT-4 Vision: C:/Data/Supermarket_Flyers/Week_26/ALDI_W26.pdf ===
+[INFO] Page 5: Sending to GPT-4 Vision...
+[INFO] Parsed 5 items from page 5.
+
+✅ Total offers parsed from ALDI PDF: 5
+[RESULT] Inserted 5 offers, Skipped 0 duplicates for: ALDI
