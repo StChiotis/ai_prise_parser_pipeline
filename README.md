@@ -1,3 +1,7 @@
+# 👉🏼 [Medium Article Link Here](https://medium.com/ai-in-plain-english/how-i-used-ai-to-map-dutch-grocery-discounts-r-u-ready-to-make-some-money-684ad6316a2c)
+
+---
+
 # AI Supermarket Flyer Parser
 
 
